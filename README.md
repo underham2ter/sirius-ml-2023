@@ -78,11 +78,11 @@ Four Points            |15
 
 ### Результат
 
-[tagged_images.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/tagged_images.jpg?raw=true)
+![tagged_images.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/tagged_images.jpg)
 
 В результате из 500 картинок 5% получилось отсортировать по тэгам, но не идеально: телевизоры часто путаются с картинами, а кухни с туалетными комнатами. Большинство тэгов было присвоено в разделе телевизоров:
 
-[barplot.png](https://github.com/underham2ter/sirius-ml-2023/blob/main/tags_barplot.png?raw=true)
+![barplot.png](tags_barplot.png?raw=true)
 
 # Модификация изображений
 

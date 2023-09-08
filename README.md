@@ -78,10 +78,10 @@ Four Points            |15
 
 ### Результат
 [tagged_images.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/tagged_images.jpg?raw=true)
-[barplot.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/tas_barplot.jpg?raw=true)
+[barplot.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/tags_barplot.jpg?raw=true)
 # Модификация изображений
 ![im3.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3.jpg?raw=true)
-![im3_drawing.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3_drawing.jpg?raw=true)
+![im3_drawing.jpeg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3_drawing.jpeg?raw=true)
 ![im3_inpainted.jpeg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3_inpainted.jpeg?raw=true)
 
 Я думаю, добавление растительности в декор - самый интересный и логичный выбор. Телевизор добавить очень просто: нужно лишь нарисовать черный прямоугольник на стене комнаты, выделить его и сделать inpainting с нужным промтом. Кухни же физически невозможно добавить в интерьер комнаты, поэтому гостей обманывать мы не будем. 

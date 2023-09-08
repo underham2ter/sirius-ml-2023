@@ -77,7 +77,7 @@ Four Points            |15
 В таких случаях всё-таки пришлось ввести твердый порог прохода для минимизации ложных положительных, чтобы случайно не обмануть пришельцев.
 
 ### Результат
-фото 
+[tagged_images.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/tagged_images.jpg?raw=true)
 # Модификация изображений
 ![im3.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3.jpg?raw=true)
 ![im3_inpainted.jpeg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3_inpainted.jpeg?raw=true)

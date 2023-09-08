@@ -79,3 +79,21 @@ Four Points            |15
 ### Результат
 фото 
 # Модификация изображений
+![im3.jpg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3.jpg?raw=true)
+![im3_inpainted.jpeg](https://github.com/underham2ter/sirius-ml-2023/blob/main/im3_inpainted.jpeg?raw=true)
+
+Я думаю, добавление растительности в декор - самый интересный и логичный выбор. Телевизор добавить очень просто: нужно лишь нарисовать черный прямоугольник на стене комнаты, выделить его и сделать inpainting с нужным промтом. Кухни же физически невозможно добавить в интерьер комнаты, поэтому гостей обманывать мы не будем. 
+
+Чтобы изменить только нужную нам часть изображения, необходимо наложить на эту область маску. Также для более успешного выполнения запроса я делал наброски зелени прямо на фотографии.
+
+Про пририсовку растительности я нашел довольно полезный [тред на реддите](https://www.reddit.com/r/StableDiffusion/comments/10qq4fm/i_cant_make_sd_to_fill_this_room_with_way_more/). Промпты типа:
+
+(very dense) (green ivy_1.5) on a (white wall),shadows
+
+(wall covered with ivy)
+
+(dense dark green grass_1.5)  on a brown hardwood floor
+
+оказались очень полезными.
+
+Про лучшие настройки я читал в этой [статье](https://stable-diffusion-art.com/inpainting_basics/)
